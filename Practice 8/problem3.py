@@ -1,0 +1,6 @@
+print("Mihir")
+print("Mihir")
+print("Mihir")
+print("Mihir", end=" ")
+print("Mihir", end=" ")
+print("Mihir", end=" ")
